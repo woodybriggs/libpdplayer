@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/Libpd Port/Libpd Port/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="47b4bddec2f3212477023f4876ea2a230ad07e02">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/Libpd Port-Libpd Port-unspecified_db277b694670eed2aac5143b321aa66cb7a560f7.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_e1c0e31bc3c1f7b1232f2bbc6a8acdff55fd2d3f.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_28382ef715f51189e9027f9e2afe131d8971dcb0.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_00414b79004e95fbf12765e2f7499d9dc32c3ab3.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_8f8894f477d16c945d5ab7e852db5a98f354aa73.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_be14bdf01fd406e8383bae2f607decb3ce11a396.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_27c27efa295d3d2fc3cd3ec1e83fbe42fd09882f.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_39a8bb9af15c7ba25e9d4058abd33b3a2cdd26d7.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_a1f989383e16f8ae17da9801facb03fc4dbac10b.jar" />
+    </item>
+    <item
+        jar="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a15d86e9196d6571495498303835228b8e52b38a.jar" />
+    </item>
+
+</items>

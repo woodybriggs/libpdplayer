@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:2:1-28:12
+	xmlns:android
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:10:9-47
+activity#uk.co.woodybriggs.libpdport.MainActivity
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:11:19-47
+	android:launchMode
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:11:48-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:15:27-74
+service#org.puredata.android.service.PdService
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:18:9-74
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:18:18-71
+activity#org.puredata.android.service.PdPreferences
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:19:9-22:20
+	android:label
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:19:19-56
+	android:configChanges
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:21:13-48
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:20:13-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:24:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml:27:22-65
+uses-sdk
+INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [Libpd Port:Libpd Port:unspecified] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/Libpd Port/Libpd Port/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/woodybriggs/AndroidStudioProjects/Libpd Port/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:23:13-66
